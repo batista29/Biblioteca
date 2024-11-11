@@ -4,11 +4,6 @@
 #include <stdio.h>
 using namespace std;
 
-/*
-    NATA BATISTA FERNANDES - 24787400
-    ESTER TERESA AMARAL - 24787319
-*/
-
 struct Livro
 {
     char titulo[100], autor[100];
